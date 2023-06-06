@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class P01DayOfWeek {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+
         int day = Integer.parseInt(sc.nextLine());
 
         switch (day) {
